@@ -1,7 +1,9 @@
 # PROLAB-Knebl
 
 
-
+In der zip ist nochmals das gesamte Projekt, ansonsten ist example_package bereits das package.
+Ich entschuldige mich für die gebliebene Platzhalter-Benennung, jedoch bin ich aufgrund privater
+Umstände zu einer etwas verfrühten Abgabe gezwungen.
 
 
 
@@ -9,8 +11,6 @@
 
 
 roslaunch example_package start_filters.launch 
-
-
 
 
 
