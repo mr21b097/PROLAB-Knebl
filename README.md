@@ -1,7 +1,7 @@
 # PROLAB-Knebl
 
 
-In der zip ist nochmals das gesamte Projekt ohne PDF, ansonsten ist example_package bereits das package.
+In der zip ist nochmals das Projekt ohne PDF, ansonsten ist example_package bereits das package.
 Ich entschuldige mich für die gebliebene Platzhalter-Benennung, jedoch bin ich aufgrund privater
 Umstände zu einer etwas verfrühten Abgabe gezwungen, sodass geplante Abschlussarbeiten nicht stattfinden konnten.
 
